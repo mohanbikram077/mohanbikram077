@@ -3,10 +3,11 @@ Machine Learning Enthusiast | Data Science Enthusiast  Front-end Web Developer |
 To utilize my knowledge and ideas in this field of machine learning, web development and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
 Reach me on:
-    My profile in LinkedIn www.linkedin.com/in/mohansharma077💼
-    My website  📹 ✍🏾
-    My contribution in Data Science in Kaggle🖥💻
-    My updates in Twiiter 💬
+
+ My profile in [LinkedIn](www.linkedin.com/in/mohansharma077)💼<br>
+ My website  📹 ✍🏾<br>
+ My contribution in Data Science in [Kaggle](www.kaggle.com/mohansharma0777)🖥💻<br>
+ My updates in [Twiiter](www.twitter.com/mohansharma077) 💬<br>
 
 My Github stats:
 
