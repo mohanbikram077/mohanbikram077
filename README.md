@@ -7,7 +7,7 @@ Reach me on:
  My profile in [LinkedIn](www.linkedin.com/in/mohansharma077)💼<br>
  My website  📹 ✍🏾<br>
  My contribution in Data Science in [Kaggle](www.kaggle.com/mohansharma0777)🖥💻<br>
- My updates in [Twiiter](www.twitter.com/mohansharma077) 💬<br>
+ My updates in [Twitter](www.twitter.com/mohansharma077) 💬<br>
 
 My Github stats:
 
