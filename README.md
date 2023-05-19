@@ -29,7 +29,7 @@ My Github stats:
 
 
 <h2>Top 9 Programming Languages to Learn in 2023</h2>
-
+<p>python</p>
 ![giphy](https://github.com/mohansharma077/mohansharma077/assets/104629829/42dd53d2-e9aa-4432-a2ce-3043e6964145)
 
 ![giphy](https://github.com/mohansharma077/mohansharma077/assets/104629829/242e095c-9c43-4a9f-aa7e-6ced401823ae)
@@ -40,6 +40,7 @@ My Github stats:
 
 ![giphy](https://github.com/mohansharma077/mohansharma077/assets/104629829/f4d152db-2774-46d0-8181-877f814c1f60)
 
+<p>ruby</p>
 ![giphy](https://github.com/mohansharma077/mohansharma077/assets/104629829/1c752c96-2787-4151-b66a-fd2c65554494)
 
 ![GO](https://github.com/mohansharma077/mohansharma077/assets/104629829/b8d56730-3bcc-451b-98dc-49d270e30070)
