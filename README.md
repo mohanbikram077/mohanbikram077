@@ -17,7 +17,7 @@ My Github stats:
 
 👯 I’ve recently worked with start-up companies like - 
 
-😄 Words that describe me - Self-motivated, Focused, Hardworking & Perfectionist.
+😄 Words that describe me - Self-motivated, Focused, Hardworking.
 <br><br>
 
 ![Mohan Sharma's Github stats](https://github-readme-stats.vercel.app/api?username=mohansharma077&theme=highcontrast&show_icons=true&count_private=true )
