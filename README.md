@@ -9,15 +9,11 @@ To utilize my knowledge and ideas in this field of machine learning, web develop
 
 Reach me on:
 
-![68747470733a2f2f6769746875622d73746174732d616c7068612e76657263656c2e6170702f6170693f757365726e616d653d64726b6f737461732663633d3232323732652674633d3337424346362669633d6666662662633d30303030](https://github.com/mohansharma077/mohansharma077/assets/104629829/3b151307-909a-4a49-bfc5-d3b6caca30d6)
-
-
 
 
  My profile in [LinkedIn](https://www.linkedin.com/in/mohansharma077/) 💼<br>
- My website  📹 ✍🏾[Website](https://mohansharma1.durable.co/)<br>
  My contribution in Data Science in [Kaggle](www.kaggle.com/mohansharma0777)🖥💻<br>
- My updates in [Twitter](www.twitter.com/mohansharma077) 💬<br>
+ My updates in [Twitter](https://www.twitter.com/mohansharma077) 💬<br>
 
 My Github stats:
 
