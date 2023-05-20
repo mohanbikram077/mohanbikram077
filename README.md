@@ -9,6 +9,8 @@ To utilize my knowledge and ideas in this field of machine learning, web develop
 
 Reach me on:
 
+Typing SVG
+    GoogleScholar 
 
 
  My profile in [LinkedIn](www.linkedin.com/in/mohansharma077)💼<br>
