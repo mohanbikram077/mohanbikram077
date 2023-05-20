@@ -27,8 +27,6 @@ My Github stats:
 😄 Words that describe me - Self-motivated, Focused, Hardworking.
 <br><br>
 
-![Mohan Sharma's Github stats](https://github-readme-stats.vercel.app/api?username=mohansharma077&theme=highcontrast&show_icons=true&count_private=true )
-<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansharma077&theme=tokyonight)
 
 
