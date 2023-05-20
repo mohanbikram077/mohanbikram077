@@ -51,7 +51,80 @@ My Github stats:
 
 
 
+Machine Learning	PyPi Packages
+Title	Stars	Technologies
+Minecraft-AI	Stars	TF
+3D Semantic Segmentation	Stars	PyTorch OpenCV
+Bert Rinehart Novels	Stars	PyTorch Spacy
+Car Accidents Pred.	Stars	Pandas SciPy
+Hybrid Girvan Newman	Stars	HGNPub PySpark
+MySQL
+COVID19 Vacc. Pred.	Stars	TF
+Instagram Likes Pred.	Stars	TF OpenCV
+RL Value Iteration	Stars	NumPy
+Vanilla Numpy CNN	Stars	NumPy
+Vanilla Numpy NN	Stars	NumPy	
+Title	Stars	Technologies
+High SQL	Stars	SQLPyPi MySQL
+CircleCI SQLDown
+Cloud File Manager	Stars	CloudPyPi Dropbox
+CircleCI CloudDown
+YAML Wrapper	Stars	YamlPyPiCircleCI
+YAMLDown
+Color Logger	Stars	LogPyPi CircleCI
+LogDown
+Email Sender	Stars	MailPyPi Gmail
+CircleCI MailDown
+Benchmark Tools	Stars	BenchPyPi CircleCI
+BenchDown
+Bots	Misc Projects
+Title	Stars	Technologies
+Youtube Comment Bot	Stars	YT Gmail Dropbox
+MySQL RDS
+CircleCI Heroku
+Job Application Bot	Stars	Gmail Dropbox
+MySQL RDS
+CircleCI Heroku	
+Title	Stars	Technologies
+Spotify Button Presser	Stars	Raspberry Spotify
+Switchbot
+Cross The Floor	Stars	Sankey Diagram
+Wiki
+2D Shooter Game	Stars	p5
+Quantum Mechanics Quiz App	Stars	android
+📈 Stats
+Pinned
+ Youtube-FirstCommentBot Public
+A bot that post the first comment on every new video of specified channels.
 
+ Python  97  19
+
+ HGN Public
+Hybrid Girvan Newman. Code for the "A Distributed Hybrid Community Detection Methodology for Social Networks" paper.
+
+ Python  14  1
+
+ 3D-Semantic-Segmentation Public
+Semantic Segmentation with Transformers on 3D Medical Images
+
+ Jupyter Notebook  24  4
+
+ Minecraft-AI Public
+A Reinforcement Learning agent that learns how to to solve maze missions in Minecraft.
+
+ Python  74  7
+
+ Bert-Rinehart-Novels Public
+Forked from NLPaladins/rinehartAnalysis_questionAnswering
+
+BERT-based question answering/reading comprehension methods on Rinehart Novels.
+
+ Jupyter Notebook  4  2
+
+ SpotiClick Public
+An app that clicks a physical button whenever Spotify starts playing on the target device.
+
+ Python  13  1
 
 
 
