@@ -1,7 +1,7 @@
 Hi there, it's Mohan 👋 (Mohan Sharma)
 Machine Learning Enthusiast | Data Science Enthusiast  Front-end Web Developer | Python Developer .
 To utilize my knowledge and ideas in this field of machine learning, web development and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
-![68747470733a2f2f6769746875622d73746174732d616c7068612e76657263656c2e6170702f6170693f757365726e616d653d64726b6f737461732663633d3232323732652674633d3337424346362669633d6666662662633d30303030](https://github.com/mohansharma077/mohansharma077/assets/104629829/53fbfbf0-527c-438c-9288-baaba1721cbc)
+![Mohan Sharma's Github stats](https://github.com/mohansharma077/mohansharma077/assets/104629829/53fbfbf0-527c-438c-9288-baaba1721cbc)
 
 
 Reach me on:
