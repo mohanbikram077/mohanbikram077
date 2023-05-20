@@ -3,7 +3,7 @@ Machine Learning Enthusiast | Data Science Enthusiast  Front-end Web Developer |
 To utilize my knowledge and ideas in this field of machine learning, web development and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
 
-![Mohan Sharma's Github stats](https://github.com/mohansharma077/mohansharma077/assets/104629829/53fbfbf0-527c-438c-9288-baaba1721cbc)
+![Mohan Sharma's Github stats](https://github-readme-stats.vercel.app/api?username=mohansharma077&theme=highcontrast&show_icons=true&count_private=true)
 
 
 
