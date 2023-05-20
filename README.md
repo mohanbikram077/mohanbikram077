@@ -23,7 +23,6 @@ My Github stats:
 
 👯 I’ve recently worked with start-up companies like - 
 
-😄 Words that describe me - Self-motivated, Focused, Hardworking.
 <br><br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohansharma077&theme=tokyonight)
