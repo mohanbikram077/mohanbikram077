@@ -9,11 +9,10 @@ To utilize my knowledge and ideas in this field of machine learning, web develop
 
 Reach me on:
 
-Typing SVG
-    GoogleScholar 
 
 
- My profile in [LinkedIn](www.linkedin.com/in/mohansharma077)💼<br>
+
+ My profile in [LinkedIn](www.linkedin.com/in/mohansharma077) 💼<br>
  My website  📹 ✍🏾[Website](https://mohansharma1.durable.co/)<br>
  My contribution in Data Science in [Kaggle](www.kaggle.com/mohansharma0777)🖥💻<br>
  My updates in [Twitter](www.twitter.com/mohansharma077) 💬<br>
