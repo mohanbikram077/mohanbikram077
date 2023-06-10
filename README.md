@@ -1,6 +1,6 @@
 Hi there, it's Mohan 👋 (Mohan Sharma)
 
-<textPath xlink:href="#path0"> Welcome to my nerdy brain cell! </textPath>
+<img src="https://camo.githubusercontent.com/b143371……6d69747…" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+nerdy+brain+cell!;My+name+is+Dimitrios!;You+can+call+me+dim+%5E_%5E;" style="max-width: 100%;">
 
 
 Machine Learning Enthusiast | Data Science Enthusiast  Front-end Web Developer | Python Developer .
