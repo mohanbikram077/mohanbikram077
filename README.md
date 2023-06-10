@@ -13,7 +13,7 @@ To implement the slider for name and profession, follow these steps:
 
 1. Include the necessary HTML markup in your web page:
 
-```html
+<html>
 <div class="slider">
   <input type="range" min="0" max="100" value="50" class="slider-input" id="name-slider">
   <span id="name">John Doe</span>
@@ -24,7 +24,7 @@ To implement the slider for name and profession, follow these steps:
   <span id="profession">Web Developer</span>
 </div>
 
-
+</html>
 ![Mohan Sharma's Github stats](https://github-readme-stats.vercel.app/api?username=mohansharma077&theme=highcontrast&show_icons=true&count_private=true)
 
 
