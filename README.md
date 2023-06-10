@@ -3,17 +3,20 @@ Machine Learning Enthusiast | Data Science Enthusiast  Front-end Web Developer |
 To utilize my knowledge and ideas in this field of machine learning, web development and embedded system toward the smooth functioning of organization,I realised that, satisfaction is a book of achievement, which holds the learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
 
-# My Awesome Website
-
-Welcome to my awesome website! This website showcases information about me and my profession using a slider.
-
-## Slider for Name and Profession
-
-To implement the slider for name and profession, follow these steps:
-
-1. Include the necessary HTML markup in your web page:
-
 <html>
+  <head>
+  <style>
+.slider {
+  display: flex;
+  overflow-x: auto;
+}
+
+.slide {
+  flex: 0 0 auto;
+  width: 100%;
+}
+</style></head>
+  <body>
 <div class="slider">
   <input type="range" min="0" max="100" value="50" class="slider-input" id="name-slider">
   <span id="name">John Doe</span>
@@ -22,7 +25,22 @@ To implement the slider for name and profession, follow these steps:
 <div class="slider">
   <input type="range" min="0" max="100" value="50" class="slider-input" id="profession-slider">
   <span id="profession">Web Developer</span>
+</div><div class="slider">
+  <div class="slide">
+    <h1>Slide 1</h1>
+    <p>Text for slide 1</p>
+  </div>
+  <div class="slide">
+    <h1>Slide 2</h1>
+    <p>Text for slide 2</p>
+  </div>
+  <div class="slide">
+    <h1>Slide 3</h1>
+    <p>Text for slide 3</p>
+  </div>
+    </body>
 </div>
+
 
 </html>
 ![Mohan Sharma's Github stats](https://github-readme-stats.vercel.app/api?username=mohansharma077&theme=highcontrast&show_icons=true&count_private=true)
