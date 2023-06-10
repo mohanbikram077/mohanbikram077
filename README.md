@@ -1,6 +1,6 @@
 Hi there, it's Mohan 👋 (Mohan Sharma)
 
-<img src="https://camo.githubusercontent.com/b143371……6d69747…" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+nerdy+brain+cell!;My+name+is+Dimitrios!;You+can+call+me+dim+%5E_%5E;" style="max-width: 100%;">
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/b143371b357339a1d5f471603709edb53531023610b5496a3226d5cbb8d92872/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733d57656c636f6d652b746f2b6d792b6e657264792b627261696e2b63656c6c213b4d792b6e616d652b69732b44696d697472696f73213b596f752b63616e2b63616c6c2b6d652b64696d2b2535455f2535453b"><img src="https://camo.githubusercontent.com/b143371b357339a1d5f471603709edb53531023610b5496a3226d5cbb8d92872/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733d57656c636f6d652b746f2b6d792b6e657264792b627261696e2b63656c6c213b4d792b6e616d652b69732b44696d697472696f73213b596f752b63616e2b63616c6c2b6d652b64696d2b2535455f2535453b" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+nerdy+brain+cell!;My+name+is+Dimitrios!;You+can+call+me+dim+%5E_%5E;" style="max-width: 100%;"></a></p>
 
 
 Machine Learning Enthusiast | Data Science Enthusiast  Front-end Web Developer | Python Developer .
